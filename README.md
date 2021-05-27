@@ -8,3 +8,5 @@ Cara menjalankan program :
 - Buka Netbeans
 - Lalu buka project
 - Kemudian jalankan project
+
+* Untuk melihat source code, pergi ke folder src > namafile.java
